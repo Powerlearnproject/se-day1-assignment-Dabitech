@@ -8,7 +8,7 @@ Explain what software engineering is and discuss its importance in the technolog
 Software engineering is the systematic application of engineering principles, methods, and tools to the development and maintenance of software systems. Software engineers design, write code, test, debug, and deploy software that addresses real-world problems. Their work powers various industries by creating applications, games, and websites that enhance communication, commerce, entertainment, and healthcare.The importance of software engineering in the technology industry cannot be overstated. It ensures the development of reliable, scalable, and secure software solutions that drive innovation. From automating business processes to enabling global connectivity, software engineering plays a crucial role in advancing technology, improving user experiences, and supporting economic growth.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
-960s – The Establishment of Software Engineering as a Discipline
+1960s – The Establishment of Software Engineering as a Discipline
 The term "software engineering" was first introduced at the 1968 NATO Software Engineering Conference to address the "software crisis" caused by increasing complexity in software development. This period marked the beginning of formal methodologies and best practices to improve software quality and maintainability.
 
 1970s – The Advent of Structured Programming
